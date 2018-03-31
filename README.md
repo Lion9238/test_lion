@@ -37,14 +37,14 @@
 #### 2.2 일반화, 과대적합, 과소적합 
 - 2.2.1 모델 복잡도와 데이터셋 크기의 관계 
 #### 2.3 지도 학습 알고리즘 
-- 2.3.1 [예제에 사용할 데이터셋](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.1.ipynb) 
-- 2.3.2 [k-최근접 이웃](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.2.ipynb) 
-- 2.3.3 [선형 모델](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.3.ipynb) 
-- 2.3.4 [나이브 베이즈 분류기](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.4.ipynb) (by 3/20)
-- 2.3.5 [결정 트리](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.5.ipynb) 
-- 2.3.6 [결정 트리의 앙상블](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.6.ipynb) 
-- 2.3.7 [커널 서포트 벡터 머신](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.7.ipynb)
-- 2.3.8 [신경망(딥러닝)](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.8.ipynb) (by 3/27) 
+- 2.3.1 [예제에 사용할 데이터셋](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.3.1%20Some%20Sample%20Dataset.ipynb) 
+- 2.3.2 [k-최근접 이웃](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.3.2%20k-Nearest%20Neighbor.ipynb) 
+- 2.3.3 [선형 모델](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.3.3%20Linear%20Models.ipynb) 
+- 2.3.4 [나이브 베이즈 분류기](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.3.4%20Naive%20Bayes%20Classifiers.ipynb) (by 3/20)
+- 2.3.5 [결정 트리](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.4.5%20Decision%20tree.ipynb) 
+- 2.3.6 [결정 트리의 앙상블](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.3.6%20Ensembles%20of%20Decision%20Trees.ipynb) 
+- 2.3.7 [커널 서포트 벡터 머신](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.3.7%20Kernelized%20Support%20Vector%20Machines.ipynb)
+- 2.3.8 [신경망(딥러닝)](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.3.8%20Neural%20Networks%20%28Deep%20Learning%29.ipynb) (by 3/27) 
 #### 2.4 [분류 예측의 불확실성 추정](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.4.ipynb) 
 - 2.4.1 결정 함수 
 - 2.4.2 예측 확률 
