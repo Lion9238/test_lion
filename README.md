@@ -46,9 +46,9 @@
 - 2.3.7 [커널 서포트 벡터 머신](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.3.7%20Kernelized%20Support%20Vector%20Machines.ipynb)
 - 2.3.8 [신경망(딥러닝)](https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.3.8%20Neural%20Networks%20%28Deep%20Learning%29.ipynb) (by 3/27) 
 #### 2.4 [분류 예측의 불확실성 추정]
-- 2.4.1 결정 함수 (https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.4.1%20The%20Decision%20Function.ipynb)
-- 2.4.2 예측 확률 (https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.4.2%20Predicting%20Probabilities.ipynb)
-- 2.4.3 다중 분류에서의 불확실성 (https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.4.3%20Uncertainty%20in%20multi-class%20classification.ipynb)
+- 2.4.1 [결정 함수] (https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.4.1%20The%20Decision%20Function.ipynb)
+- 2.4.2 [예측 확률] (https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.4.2%20Predicting%20Probabilities.ipynb)
+- 2.4.3 [다중 분류에서의 불확실성] (https://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter02/2.4.3%20Uncertainty%20in%20multi-class%20classification.ipynb)
 #### 2.5 요약 및 정리 (by 4/3)
 
 <br/>
