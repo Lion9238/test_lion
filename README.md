@@ -100,8 +100,7 @@
 - 5.2.1 간단한 그리드 서치 
 - 5.2.2 매개변수 과대적합과 검증 세트 
 - 5.2.3 교차 검증을 사용한 그리드 서치 (by 5/22)
-#### 5.3 [평가 지표와 측정](http://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter05/5.3%20Evaluation%20Metrics%20and%20Scoring.ipynb
-) 
+#### 5.3 [평가 지표와 측정](http://nbviewer.jupyter.org/github/ChIlLee2018/data_science_2018/blob/master/Chapter05/5.3%20Evaluation%20Metrics%20and%20Scoring.ipynb) 
 - 5.3.1 최종 목표를 기억하라 
 - 5.3.2 이진 분류의 평가 지표
 - 5.3.3 다중 분류의 평가 지표
